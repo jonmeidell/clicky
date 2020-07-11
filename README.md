@@ -13,3 +13,9 @@ After picking a card, they will get shuffled around.  The app keeps track of whi
 How was this made?
 
 ![With Science!](https://jonmeidell.github.io/clicky/assets/images/withscience.gif)
+
+
+
+_**Good luck!**_
+
+![Bats](https://jonmeidell.github.io/clicky/assets/images/bats2.gif)
